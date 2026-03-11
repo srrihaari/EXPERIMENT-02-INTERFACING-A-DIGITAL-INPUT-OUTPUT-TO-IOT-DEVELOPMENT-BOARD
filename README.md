@@ -107,7 +107,8 @@ IR technology is used in a wide range of wireless applications which includes re
 
 ## OUTPUT
 
-![WhatsApp Image 2026-03-11 at 9 05 00 AM](https://github.com/user-attachments/assets/49f58a60-e65e-424f-9b67-98b2d68ee2e0)
+![WhatsApp Image 2026-03-11 at 9 15 20 AM](https://github.com/user-attachments/assets/a17ceb4c-306d-4c74-8166-ee195cd2c987)
+
 
 ![WhatsApp Image 2026-03-11 at 8 54 15 AM (1)](https://github.com/user-attachments/assets/3875c632-cb1a-4358-bf46-bfa0eab5371c)
 
