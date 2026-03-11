@@ -1,13 +1,13 @@
 # EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
+**DATE:**24/2/26
 
-**NAME:**
+**NAME:** Sri Hari R
 
-**ROLL NO:**
+**ROLL NO:**212223040202
 
-**DEPARTMENT:**
+**DEPARTMENT:**CSE
 
 ## Aim
 
@@ -106,6 +106,10 @@ IR technology is used in a wide range of wireless applications which includes re
 ```
 
 ## OUTPUT
+
+![WhatsApp Image 2026-03-11 at 9 05 00 AM](https://github.com/user-attachments/assets/49f58a60-e65e-424f-9b67-98b2d68ee2e0)
+
+![WhatsApp Image 2026-03-11 at 8 54 15 AM (1)](https://github.com/user-attachments/assets/3875c632-cb1a-4358-bf46-bfa0eab5371c)
 
 ## Result
 
